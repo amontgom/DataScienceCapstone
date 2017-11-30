@@ -1,0 +1,12 @@
+name: NextWordPredictor
+title: NextWordPredictor
+username:
+account: amontgom
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 239071
+bundleId: 1091298
+url: https://amontgom.shinyapps.io/NextWordPredictor/
+when: 1511389897.17616
+asMultiple: FALSE
+asStatic: FALSE
